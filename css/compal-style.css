@@ -1168,7 +1168,7 @@ bg_1 {
 }
 .img_radius {
     width: 98%;
-    border-radius: 10%;
+    border-radius: 20px;
 }
 .img_radius01 {
     width: 900px;
