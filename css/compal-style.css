@@ -21,7 +21,7 @@ body {
 /* This is the page container  */
 #poto {
 	width: 900px;
-	height: auto;
+	height: 600px;
 	padding-top: 0px;
 	margin-left: -430px;
 }
@@ -250,7 +250,7 @@ a:hover {color: #488E48; border-bottom: 0px solid #fff; background: transparent;
 	width: 220px;
 	height: 220px;
 	float: none;
-	margin:  0px;
+	margin: 0px;
 	padding-top: 5px;
 	padding-right: 0px;
 	padding-bottom: 10px;
