@@ -210,5 +210,5 @@ p span {
 }
 #menu li a:hover {
 	color: #488E48;
-	border-bottom: 2px double #51BD12;
+	border-bottom: 4px solid #51BD12;
 } 
